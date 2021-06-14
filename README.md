@@ -14,5 +14,5 @@ Ce dossier répertorie des codes Python et Matlab utilisés dans le cadre d'un s
 
 ### Data
 
-Les données EEG utilisées sont celles récoltées par Gaganpreet Singh dans le cadre de sa thèse ayant pour intitulé : "Interaction humain-machine : Intégration de l'état physiologique de l'opérateur humain dans la supervision".
+Les données EEG utilisées sont celles récoltées par Gaganpreet Singh dans le cadre de sa thèse en cours ayant pour intitulé : "Interaction humain-machine : Intégration de l'état physiologique de l'opérateur humain dans la supervision".
 
